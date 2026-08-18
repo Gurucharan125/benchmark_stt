@@ -1,0 +1,2581 @@
+[
+  {
+    "provider": "deepgram",
+    "transcript": "Hello there. I was hoping you could help me out with a couple of I have about your services. I've been trying to reach someone all morning.",
+    "wer": 0.034482758620689655,
+    "semantic_wer": 0.034482758620689655,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1253.7474999990081,
+      "final_ms": 0,
+      "total_ms": 12409.709400002612
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "deepgram",
+    "transcript": "This is actually my first time bringing my vehicle to Sui A friend of mine recommended you guys because he said the service was fantastic.",
+    "wer": 0.07692307692307693,
+    "semantic_wer": 0.07692307692307693,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1244.5243999973172,
+      "final_ms": 0,
+      "total_ms": 13010.13729999977
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "deepgram",
+    "transcript": "I don't have an account with you guys yet. So I think we might need to set one up from scratch. I just bought the car used from a private seller last week.",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1231.6228999989107,
+      "final_ms": 0,
+      "total_ms": 15113.707199998316
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "deepgram",
+    "transcript": "Sure. My name is Sarah Connor. That's Sarah with an h. And Connor is c o n n o r. I should be in your system from about three years ago.",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 1,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1247.7044999977807,
+      "final_ms": 0,
+      "total_ms": 16320.835499998793
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "deepgram",
+    "transcript": "I'm calling about my account. But it's actually under my husband's name. It's under Michael Scott. And the phone number on file should be his cell.",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 1,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1138.7622999973246,
+      "final_ms": 0,
+      "total_ms": 13913.99889999957
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "deepgram",
+    "transcript": "Actually, I recently moved across the state. So my preferred location is Dallas now. Instead of Austin. Could you go ahead and update that on my profile?",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 1,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1206.540600000153,
+      "final_ms": 0,
+      "total_ms": 15916.198599999916
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "deepgram",
+    "transcript": "I really need to schedule a synthetic oil change and a tire rotation for my twenty twenty two Lexus RX. It just hit thirty thousand miles yesterday.",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 4,
+      "matched": 4,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 2277.52590000091,
+      "final_ms": 0,
+      "total_ms": 16024.629800002003
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "deepgram",
+    "transcript": "I'd like to book some routine maintenance for my Ford. It's been making this really weird squeaking noise. Every time I apply the brakes, going downhill.",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 2,
+      "matched": 2,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1164.2480999980762,
+      "final_ms": 0,
+      "total_ms": 14522.856299998239
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "deepgram",
+    "transcript": "The vehicle in question is a twenty diesel model. It's an F two fifty Super Duty, and it takes about thirteen quarts of oil.",
+    "wer": 0.041666666666666664,
+    "semantic_wer": 0.041666666666666664,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 0,
+      "score": 0.0,
+      "missing": [
+        "two thousand sixteen"
+      ]
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1276.7748000005668,
+      "final_ms": 0,
+      "total_ms": 12710.697500002425
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "deepgram",
+    "transcript": "I was thinking I'll bring it in this Friday. At ten AM. If that time is completely booked up, I can probably do Thursday afternoon around three instead.",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 0,
+      "score": 0.0,
+      "missing": [
+        "this Friday at ten AM"
+      ]
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1252.3679999976594,
+      "final_ms": 0,
+      "total_ms": 17122.172300001694
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "deepgram",
+    "transcript": "Yes. I will definitely need a loaner vehicle. My wife took our other car out of town for the weekend. So I have absolutely no other way to get to the office.",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 1,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1188.2633000022906,
+      "final_ms": 0,
+      "total_ms": 15319.267700000637
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "deepgram",
+    "transcript": "Actually, if it's only going to take an hour or two, I'll just wait at the dealership. I brought my laptop so I can just catch up on some emails in the lounge.",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 1,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1208.777600000758,
+      "final_ms": 0,
+      "total_ms": 15424.137500001962
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "deepgram",
+    "transcript": "Something just came up at work. So can we change my appointment to two PM? My morning meeting got pushed back. And now I have a massive conflict.",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 1,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1185.7959000008123,
+      "final_ms": 0,
+      "total_ms": 13814.145700001973
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "deepgram",
+    "transcript": "I'm going to have to push my service back to next Tuesday. My kids got sick, and I can't leave the house today. Does next Tuesday morning work for you guys?",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 1,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1304.2510000013863,
+      "final_ms": 0,
+      "total_ms": 14520.370700000058
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "deepgram",
+    "transcript": "Do you guys happen to have a collision center on-site? I was rear ended at a stoplight yesterday. And the bumper is completely dented in.",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1319.5133000008354,
+      "final_ms": 0,
+      "total_ms": 13216.98970000216
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "deepgram",
+    "transcript": "I was looking online. And couldn't find the answer to this. But what exactly is your policy on parts warranties? Do they cover labor costs if the part fails prematurely?",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1279.742200000328,
+      "final_ms": 0,
+      "total_ms": 16217.30679999746
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "deepgram",
+    "transcript": "Can you tell me a little bit more about the Sewl difference? I hear the commercials on the radio all the time but I'm not really sure what makes it so special.",
+    "wer": 0.030303030303030304,
+    "semantic_wer": 0.030303030303030304,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1325.4342000000179,
+      "final_ms": 0,
+      "total_ms": 15015.166100001807
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "deepgram",
+    "transcript": "Where exactly are you guys located? I know you have a few different branches around the city, but I'm looking for the one closest to the downtown area.",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1259.6849000001384,
+      "final_ms": 0,
+      "total_ms": 13624.332300001697
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "deepgram",
+    "transcript": "Listen. I've been talking to this robot for five minutes. And I just wanna speak to a real person. Can you please transfer me to a human representative?",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1273.3555999984674,
+      "final_ms": 0,
+      "total_ms": 15131.404899999325
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "deepgram",
+    "transcript": "No. I think that just about covers everything I needed to know. That's all for today. Thanks so much for all your help. I really appreciate it.",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1285.6087000000116,
+      "final_ms": 0,
+      "total_ms": 14627.707399999053
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "assemblyai",
+    "transcript": "Hello there. I was hoping you could help me out with a couple of questions I have about your services. I've been trying to reach someone all morning.",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1184.6406000004208,
+      "final_ms": 0,
+      "total_ms": 12418.240299997706
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "assemblyai",
+    "transcript": "This is actually my first time bringing my vehicle to Sewell. A friend of mine recommended you guys because he said the customer service was fantastic.",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1111.900699997932,
+      "final_ms": 0,
+      "total_ms": 13020.115100000112
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "assemblyai",
+    "transcript": "I don't have an account with you guys yet. So I think we might need to set one up from scratch. I just bought the car used from a private seller last week.",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1211.8359000014607,
+      "final_ms": 0,
+      "total_ms": 15103.76649999671
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "assemblyai",
+    "transcript": "Sure. My name is Sarah Connor. That's Sarah with an H. Connor is C-O-N-N-O-R. I should be in your system from about 3 years ago.",
+    "wer": 0.03125,
+    "semantic_wer": 0.03125,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 1,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1182.1988000010606,
+      "final_ms": 0,
+      "total_ms": 16307.177800001227
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "assemblyai",
+    "transcript": "I'm calling about my account. But it's actually under my husband's name. It's under Michael Scott, and the phone number on file should",
+    "wer": 0.1,
+    "semantic_wer": 0.1,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 1,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1216.9319999993604,
+      "final_ms": 0,
+      "total_ms": 13915.964800002257
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "assemblyai",
+    "transcript": "Actually, I recently moved across the state. So my preferred location is Dallas now instead of Austin. Could you go ahead and update that on my profile?",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 1,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1195.9188000000722,
+      "final_ms": 0,
+      "total_ms": 15928.861100001086
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "assemblyai",
+    "transcript": "I really need to schedule a synthetic oil change and a tire rotation for my 2022 Lexus RX. It just hit 30,000 miles yesterday.",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 4,
+      "matched": 3,
+      "score": 75.0,
+      "missing": [
+        "twenty twenty two"
+      ]
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 2081.3956999991206,
+      "final_ms": 0,
+      "total_ms": 16027.596100000665
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "assemblyai",
+    "transcript": "I'd like to book some routine maintenance for my Ford. It's been making this really weird squeaking noise. Every time I apply the brakes going downhill.",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 2,
+      "matched": 2,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1178.3630999998422,
+      "final_ms": 0,
+      "total_ms": 14521.032199998444
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "assemblyai",
+    "transcript": "The vehicle in question is a 2016 diesel model. It's an F-250 Super Duty, and it takes about 13 quarts of oil.",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 0,
+      "score": 0.0,
+      "missing": [
+        "two thousand sixteen"
+      ]
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1089.936000000307,
+      "final_ms": 0,
+      "total_ms": 12713.821299999836
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "assemblyai",
+    "transcript": "I was thinking, I'll bring it in this Friday at 10 AM. If that time is completely booked up, I can probably do Thursday afternoon around 3 instead.",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 0,
+      "score": 0.0,
+      "missing": [
+        "this Friday at ten AM"
+      ]
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1273.9518000016687,
+      "final_ms": 0,
+      "total_ms": 17121.021499999188
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "assemblyai",
+    "transcript": "Yes. I will definitely need a loaner vehicle. My wife took our other car out of town for the weekend. So I have absolutely no other way to get to the office.",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 1,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1217.0188000018243,
+      "final_ms": 0,
+      "total_ms": 15312.41510000109
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "assemblyai",
+    "transcript": "Actually, if it's only going to take an hour or two, I'll just wait at the dealership. I brought my laptop so I can just catch up on some emails. In the lounge.",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 1,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1379.6908000003896,
+      "final_ms": 0,
+      "total_ms": 15409.235099999933
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "assemblyai",
+    "transcript": "Something just came up at work. So can we change my appointment to 2 PM? My morning meeting got pushed back. And now I have a massive conflict.",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 0,
+      "score": 0.0,
+      "missing": [
+        "two PM"
+      ]
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1183.4000000017113,
+      "final_ms": 0,
+      "total_ms": 13822.95779999913
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "assemblyai",
+    "transcript": "I'm going to have to push my service back to next Tuesday. My kids got sick and I can't leave the house today. Does next Tuesday morning work for you guys?",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 1,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1242.4351000008755,
+      "final_ms": 0,
+      "total_ms": 14505.496599998878
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "assemblyai",
+    "transcript": "Do you guys happen to have a collision center on site? I was rear-ended at a stoplight yesterday. And the bumper is completely dented in.",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1186.898799998744,
+      "final_ms": 0,
+      "total_ms": 13207.437199998822
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "assemblyai",
+    "transcript": "I was looking online. And couldn't find the answer to this. But what exactly is your policy on parts warranties? Do they cover labor costs if the part fails prematurely?",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1218.0549999975483,
+      "final_ms": 0,
+      "total_ms": 16226.742700000614
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "assemblyai",
+    "transcript": "Can you tell me a little bit more about the Sewall difference? I hear the commercials on the radio all the time. But I'm not really sure what makes it so special.",
+    "wer": 0.030303030303030304,
+    "semantic_wer": 0.030303030303030304,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1192.689400002564,
+      "final_ms": 0,
+      "total_ms": 15022.031900000002
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "assemblyai",
+    "transcript": "Where exactly are you guys located? I know you have a few different branches around the city, but I'm looking for the one closest to the downtown area.",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1114.7840000012366,
+      "final_ms": 0,
+      "total_ms": 13615.683899999567
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "assemblyai",
+    "transcript": "Listen. I've been talking to this robot for 5 minutes. And I just wanna speak to a real person. Can you please transfer me to a human representative?",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1207.8756999981124,
+      "final_ms": 0,
+      "total_ms": 15120.460199999798
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "assemblyai",
+    "transcript": "No. I think that just about covers everything I needed to know. That's all for today. Thanks so much for all your help. I really appreciate it.",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1486.62609999883,
+      "final_ms": 0,
+      "total_ms": 14614.854799998284
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "elevenlabs",
+    "transcript": "Hello there. I was hoping you could help me out with a couple of questions I have about your services. I've been trying to reach someone all morning",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1607.5682000009692,
+      "final_ms": 0,
+      "total_ms": 13010.280800001055
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "elevenlabs",
+    "transcript": "This is actually my first time bringing my vehicle to Sewell. A friend of mine recommended you guys because he said the customer service was fantastic.",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1330.8254000003217,
+      "final_ms": 0,
+      "total_ms": 13345.710300000064
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "elevenlabs",
+    "transcript": "I don't have an account with you guys yet, so I think we might need to set one up from scratch. I just bought the car used from a private seller last week",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1516.215799998463,
+      "final_ms": 0,
+      "total_ms": 15621.699800001807
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "elevenlabs",
+    "transcript": "Sure. My name is Sarah Connor. That's Sarah with an H, and Connor is C-O-N-N-O-R. I should be in your system from about three years ago",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 1,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1680.6075000022247,
+      "final_ms": 0,
+      "total_ms": 16981.913599996915
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "elevenlabs",
+    "transcript": "I'm calling about my account, but it's actually under my husband's name. It's under Michael Scott, and the phone number on file should be his cell",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 1,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1603.537699997105,
+      "final_ms": 0,
+      "total_ms": 14504.236000000674
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "elevenlabs",
+    "transcript": "Actually, I recently moved across the state, so my preferred location is Dallas now instead of Austin. Could you go ahead and update that on my profile?",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 1,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1731.3016000007337,
+      "final_ms": 0,
+      "total_ms": 16646.53729999918
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "elevenlabs",
+    "transcript": "I really need to schedule a synthetic oil change and a tire rotation for my 2022 Lexus RX. It just hit 30,000 miles yesterday",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 4,
+      "matched": 3,
+      "score": 75.0,
+      "missing": [
+        "twenty twenty two"
+      ]
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1759.098599999561,
+      "final_ms": 0,
+      "total_ms": 16771.817400000145
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "elevenlabs",
+    "transcript": "I'd like to book some routine maintenance for my Ford. It's been making this really weird squeaking noise every time I apply the brakes going downhill",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 2,
+      "matched": 2,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1612.4423000001116,
+      "final_ms": 0,
+      "total_ms": 15122.568200000387
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "elevenlabs",
+    "transcript": "The vehicle in question is a two thousand sixteen diesel model. It's an F-two fifty Super Duty, and it takes about thirteen quarts of oil",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 1,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1729.9386000013328,
+      "final_ms": 0,
+      "total_ms": 13437.592099999165
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "elevenlabs",
+    "transcript": "I was thinking I'll bring it in this Friday at 10:00 AM. If that time is completely booked up, I can probably do Thursday afternoon around 3:00 instead.",
+    "wer": 0.06896551724137931,
+    "semantic_wer": 0.06896551724137931,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 0,
+      "score": 0.0,
+      "missing": [
+        "this Friday at ten AM"
+      ]
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1735.7125000016822,
+      "final_ms": 0,
+      "total_ms": 17841.846500003157
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "elevenlabs",
+    "transcript": "Yes, I will definitely need a loaner vehicle. My wife took our other car out of town for the weekend, so I have absolutely no other way to get to the office",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 1,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1623.8487999980862,
+      "final_ms": 0,
+      "total_ms": 15941.913700000441
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "elevenlabs",
+    "transcript": "Actually, if it's only going to take an hour or two, I'll just wait at the dealership. I brought my laptop so I can just catch up on some emails in the lounge",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 1,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1339.9771000003966,
+      "final_ms": 0,
+      "total_ms": 15741.280499998538
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "elevenlabs",
+    "transcript": "Something just came up at work, so can we change my appointment to 2:00 PM? My morning meeting got pushed back, and now I have a massive conflict.",
+    "wer": 0.03571428571428571,
+    "semantic_wer": 0.03571428571428571,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 0,
+      "score": 0.0,
+      "missing": [
+        "two PM"
+      ]
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1135.0493999998434,
+      "final_ms": 0,
+      "total_ms": 13942.736400000285
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "elevenlabs",
+    "transcript": "I'm going to have to push my service back to next Tuesday. My kids got sick, and I can't leave the house today. Does next Tuesday morning work for you guys?",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 1,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1435.5069000012008,
+      "final_ms": 0,
+      "total_ms": 14943.641599998955
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "elevenlabs",
+    "transcript": "Do you guys happen to have a collision center on site? I was rear-ended at a stoplight yesterday and the bumper is completely dented in",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1358.0517999980657,
+      "final_ms": 0,
+      "total_ms": 13570.016800000303
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "elevenlabs",
+    "transcript": "I was looking online and couldn't find the answer to this, but what exactly is your policy on parts warranties? Do they cover labor costs if the part fails prematurely?",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 2053.051000002597,
+      "final_ms": 0,
+      "total_ms": 17268.93689999997
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "elevenlabs",
+    "transcript": "Can you tell me a little bit more about the Sewell Difference? I hear the commercials on the radio all the time, but I'm not really sure what makes it so special.",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1212.1430999977747,
+      "final_ms": 0,
+      "total_ms": 15222.739200002252
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "elevenlabs",
+    "transcript": "Where exactly are you guys located? I know you have a few different branches around the city, but I'm looking for the one closest to the downtown area.",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1796.6721000011603,
+      "final_ms": 0,
+      "total_ms": 14404.700200000661
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "elevenlabs",
+    "transcript": "Listen, I've been talking to this robot for five minutes, and I just wanna speak to a real person. Can you please transfer me to a human representative?",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1151.0497000017494,
+      "final_ms": 0,
+      "total_ms": 15261.885900003108
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "elevenlabs",
+    "transcript": "No, I think that just about covers everything I needed to know. That's all for today. Thanks so much for all your help. I really appreciate it",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1477.277400001185,
+      "final_ms": 0,
+      "total_ms": 15093.699400000332
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "speechmatics",
+    "transcript": "Hello there . I was hoping you could help me out with a couple of questions I have about your services . I've been trying to reach someone all morning",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1094.4791000001715,
+      "final_ms": 0,
+      "total_ms": 12413.931999999477
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "speechmatics",
+    "transcript": "This is actually my first time bringing my vehicle to school . A friend of mine recommended you guys because he said the customer service was fantastic .",
+    "wer": 0.038461538461538464,
+    "semantic_wer": 0.038461538461538464,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 974.6218000000226,
+      "final_ms": 0,
+      "total_ms": 13028.547900001286
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "speechmatics",
+    "transcript": "I don't have an account with you guys yet , so I think we might need to set one up from scratch . I just bought the car used from a private seller last week",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 957.151900001918,
+      "final_ms": 0,
+      "total_ms": 15107.64620000191
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "speechmatics",
+    "transcript": "Sure . My name is Sarah Connor . That's Sarah with an H , and Connor is CONOR . I should be in your system from about three years ago",
+    "wer": 0.1875,
+    "semantic_wer": 0.1875,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 1,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1265.0661000006949,
+      "final_ms": 0,
+      "total_ms": 16323.69800000015
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "speechmatics",
+    "transcript": "I'm calling about my account , but it's actually under my husband's name . It's under Michael Scott . And the phone number on file should be his cell",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 1,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1062.803000000713,
+      "final_ms": 0,
+      "total_ms": 13924.642800000584
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "speechmatics",
+    "transcript": "Actually , I recently moved across the state , so my preferred location is Dallas now instead of Austin . Could you go ahead and update that on my profile ?",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 1,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1309.4488000024285,
+      "final_ms": 0,
+      "total_ms": 15902.970999999525
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "speechmatics",
+    "transcript": "I really need to schedule a synthetic oil change and a tire rotation for my 2022 Lexus . It just hit 30,000 miles yesterday",
+    "wer": 0.041666666666666664,
+    "semantic_wer": 0.041666666666666664,
+    "entity_accuracy": {
+      "total": 4,
+      "matched": 2,
+      "score": 50.0,
+      "missing": [
+        "twenty twenty two",
+        "RX"
+      ]
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 2391.6308999978355,
+      "final_ms": 0,
+      "total_ms": 16017.527500000142
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "speechmatics",
+    "transcript": "I'd like to book some routine maintenance for my Ford . It's been making this really weird squeaking noise . Every time I apply the brakes going down",
+    "wer": 0.03571428571428571,
+    "semantic_wer": 0.03571428571428571,
+    "entity_accuracy": {
+      "total": 2,
+      "matched": 2,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 968.2740999996895,
+      "final_ms": 0,
+      "total_ms": 14504.879399999481
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "speechmatics",
+    "transcript": "The vehicle in question is a 2016 diesel model . It's an F-250 Super Duty and it takes about 13 quarts of oil",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 0,
+      "score": 0.0,
+      "missing": [
+        "two thousand sixteen"
+      ]
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1063.6850999981107,
+      "final_ms": 0,
+      "total_ms": 12711.488899996766
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "speechmatics",
+    "transcript": "I was thinking , I'll bring it in this Friday at 10 a.m. if that time is completely booked up . I can probably do Thursday afternoon around three instead",
+    "wer": 0.06896551724137931,
+    "semantic_wer": 0.06896551724137931,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 0,
+      "score": 0.0,
+      "missing": [
+        "this Friday at ten AM"
+      ]
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 986.9565000008151,
+      "final_ms": 0,
+      "total_ms": 17112.925400000677
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "speechmatics",
+    "transcript": "Yes , I will definitely need a loner vehicle . My wife took our other car out of town for the weekend , so I have absolutely no other way to get to the office",
+    "wer": 0.03125,
+    "semantic_wer": 0.03125,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 1,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 995.1365999986592,
+      "final_ms": 0,
+      "total_ms": 15323.870799998986
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "speechmatics",
+    "transcript": "Actually , if it's only going to take an hour or two , I'll just wait at the dealership . I brought my laptop so I can just catch up on some emails in the lounge",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 1,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 2395.0473999975657,
+      "final_ms": 0,
+      "total_ms": 15411.6772999987
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "speechmatics",
+    "transcript": "Something just came up at work . So can we change my appointment to 2 p.m. ? My morning meeting got pushed back , and now I have a massive conflict",
+    "wer": 0.07142857142857142,
+    "semantic_wer": 0.07142857142857142,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 0,
+      "score": 0.0,
+      "missing": [
+        "two PM"
+      ]
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1275.6215000008524,
+      "final_ms": 0,
+      "total_ms": 13822.679900000367
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "speechmatics",
+    "transcript": "I'm going to have to push my service back to next Tuesday . My kids got sick and I can't leave the house today . Does next Tuesday morning work for you guys",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 1,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1260.999800000718,
+      "final_ms": 0,
+      "total_ms": 14513.135400000465
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "speechmatics",
+    "transcript": "Do you guys happen to have a collision center on site ? I was rear ended at a stoplight yesterday and the bumper is completely dented in",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1210.072100002435,
+      "final_ms": 0,
+      "total_ms": 13230.905799999164
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "speechmatics",
+    "transcript": "I was looking online and couldn't find the answer to this . But what exactly is your policy on parts warranties ? Do they cover labor costs ? If the part fails prematurely",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1262.7343999993172,
+      "final_ms": 0,
+      "total_ms": 16207.349799999065
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "speechmatics",
+    "transcript": "Can you tell me a little bit more about the sewel difference ? I hear the commercials on the radio all the time , but I'm not really sure what makes it so special",
+    "wer": 0.030303030303030304,
+    "semantic_wer": 0.030303030303030304,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1060.6378999982553,
+      "final_ms": 0,
+      "total_ms": 15021.470000003319
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "speechmatics",
+    "transcript": "Where exactly are you guys located ? I know you have a few different branches around the city , but I'm looking for the one closest to the downtown area",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 971.3222999998834,
+      "final_ms": 0,
+      "total_ms": 13610.250199999427
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "speechmatics",
+    "transcript": "Listen , I've been talking to this robot for five minutes , and I just want to speak to a real person . Can you please transfer me to a human representative",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1318.9966999998433,
+      "final_ms": 0,
+      "total_ms": 15120.40160000106
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "speechmatics",
+    "transcript": "No , I think that just about covers everything I needed to know . That's all for today . Thanks so much for all your help . I really appreciate it",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1308.8958000007551,
+      "final_ms": 0,
+      "total_ms": 14619.986800000333
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "gladia",
+    "transcript": "Hello there. I was hoping you could help me out with a couple of questions I have about- Your services. I've been trying to reach someone all morning.",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 850.7824999978766,
+      "final_ms": 0,
+      "total_ms": 12401.113399999304
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "gladia",
+    "transcript": "This is actually my first time bringing my vehicle to Sewell. A friend of mine recommended you guys because he said the customer service Thanks for...",
+    "wer": 0.11538461538461539,
+    "semantic_wer": 0.11538461538461539,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 931.4042999976664,
+      "final_ms": 0,
+      "total_ms": 13030.2225000014
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "gladia",
+    "transcript": "I don't have an account with you guys yet. So I think we might need to set one up from scratch. I just bought the car used from a private seller. Last",
+    "wer": 0.029411764705882353,
+    "semantic_wer": 0.029411764705882353,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 864.1199000012421,
+      "final_ms": 0,
+      "total_ms": 15120.311100003164
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "gladia",
+    "transcript": "Sure. My name is Sarah Connor. That's Sarah with an A. H and Connor is C-O-N-N-O-R. you I should be an ecosystem from a...",
+    "wer": 0.28125,
+    "semantic_wer": 0.28125,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 1,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1549.2060000033234,
+      "final_ms": 0,
+      "total_ms": 16320.432300002722
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "gladia",
+    "transcript": "I'm calling about my account, but it's actually under my husband's name. It's under Michael Scott. And the phone number on file? or should be.",
+    "wer": 0.1,
+    "semantic_wer": 0.1,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 1,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 959.4780000006722,
+      "final_ms": 0,
+      "total_ms": 13922.595800002455
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "gladia",
+    "transcript": "Actually, I recently moved across the state, so my My preferred location is Dallas now, instead of Austin. Could you go ahead and update that on my profile?",
+    "wer": 0.037037037037037035,
+    "semantic_wer": 0.037037037037037035,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 1,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 851.6140000028827,
+      "final_ms": 0,
+      "total_ms": 15919.372100001056
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "gladia",
+    "transcript": "I really need to schedule a synthetic oil change and a tire rotation. rotation for my 2022 lexus rx It just hit 30,000 miles.",
+    "wer": 0.08333333333333333,
+    "semantic_wer": 0.08333333333333333,
+    "entity_accuracy": {
+      "total": 4,
+      "matched": 3,
+      "score": 75.0,
+      "missing": [
+        "twenty twenty two"
+      ]
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 2435.142000002088,
+      "final_ms": 0,
+      "total_ms": 16026.017600001069
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "gladia",
+    "transcript": "I'd like to book some routine maintenance for my Ford. It's been making this really weird squeaking noise. every time I apply the brakes. Goin'",
+    "wer": 0.07142857142857142,
+    "semantic_wer": 0.07142857142857142,
+    "entity_accuracy": {
+      "total": 2,
+      "matched": 2,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 915.0831999977527,
+      "final_ms": 0,
+      "total_ms": 14514.053599999897
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "gladia",
+    "transcript": "The vehicle in question is a 2016 diesel model. It's an F-250 Super Duty, and it takes about 13 minutes to get to the base. Team of cool",
+    "wer": 0.3333333333333333,
+    "semantic_wer": 0.3333333333333333,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 0,
+      "score": 0.0,
+      "missing": [
+        "two thousand sixteen"
+      ]
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 827.0735000005516,
+      "final_ms": 0,
+      "total_ms": 12717.16120000201
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "gladia",
+    "transcript": "I was thinking, I'll bring it in this Friday. at 10am If that time is completely booked up... I can probably do Thursday afternoon around three. Insta",
+    "wer": 0.034482758620689655,
+    "semantic_wer": 0.034482758620689655,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 0,
+      "score": 0.0,
+      "missing": [
+        "this Friday at ten AM"
+      ]
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 877.4386000004597,
+      "final_ms": 0,
+      "total_ms": 17103.941200002737
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "gladia",
+    "transcript": "Yes, I will definitely need a loaner vehicle. My wife took our other car out of town for the weekend. So I have absolutely no other way to get to be.",
+    "wer": 0.0625,
+    "semantic_wer": 0.0625,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 1,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 933.6694000012358,
+      "final_ms": 0,
+      "total_ms": 15315.371400000004
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "gladia",
+    "transcript": "Actually, if it's only going to take an hour or two... I'll just wait at the dealership. I brought my laptop so I can just- Cut your bonsome emails",
+    "wer": 0.2,
+    "semantic_wer": 0.2,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 1,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1666.3718999989214,
+      "final_ms": 0,
+      "total_ms": 15422.965800000384
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "gladia",
+    "transcript": "Something just came up at work, so can we change my appointment? to 2 p.m. My morning meeting got pushed back. And now I have a massive conflict.",
+    "wer": 0.07142857142857142,
+    "semantic_wer": 0.07142857142857142,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 0,
+      "score": 0.0,
+      "missing": [
+        "two PM"
+      ]
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 873.7266999996791,
+      "final_ms": 0,
+      "total_ms": 13816.919200002303
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "gladia",
+    "transcript": "I'm going to have to push my service back to next Tuesday. My kids got sick and I can't leave the house today. Does next Tuesday morning work?",
+    "wer": 0.09090909090909091,
+    "semantic_wer": 0.09090909090909091,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 1,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1327.662200001214,
+      "final_ms": 0,
+      "total_ms": 14514.495400002488
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "gladia",
+    "transcript": "Do you guys happen to have a collision center on site? I was rear-ended at a stoplight yesterday. And the bumper is completely dented in.",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1152.3477000009734,
+      "final_ms": 0,
+      "total_ms": 13229.922700000316
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "gladia",
+    "transcript": "I was looking online and couldn't find the answer to this. But what exactly is your policy on parts warranties? Do they cover labor costs if the part fails prematurely?",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 2968.5439999993832,
+      "final_ms": 0,
+      "total_ms": 16210.927600001014
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "gladia",
+    "transcript": "Can you tell me a little bit more about the Sewell difference? I hear the commercials on the radio all the time. But I'm not really sure what makes it so special.",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 960.9508000030473,
+      "final_ms": 0,
+      "total_ms": 15020.062300001882
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "gladia",
+    "transcript": "Where exactly are you guys located? I know you have a few different branches around the city. But I'm looking for the one closest to the downtown.",
+    "wer": 0.034482758620689655,
+    "semantic_wer": 0.034482758620689655,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 914.1947999996773,
+      "final_ms": 0,
+      "total_ms": 13622.309099999256
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "gladia",
+    "transcript": "Listen, I've been talking to this robot for five minutes. And I just want to speak to a real person. Can you please transfer me to a human representative?",
+    "wer": 0.0,
+    "semantic_wer": 0.0,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1004.0627000016684,
+      "final_ms": 0,
+      "total_ms": 15100.752800000919
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "gladia",
+    "transcript": "No, I think that just about covers everything I needed to know. That's all for today. Thanks so much for all your help. I will",
+    "wer": 0.10714285714285714,
+    "semantic_wer": 0.10714285714285714,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1449.4555999990553,
+      "final_ms": 0,
+      "total_ms": 14613.257900000463
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "google_public",
+    "transcript": "I was hoping you could help me out with a couple of questions I have about your services I've been trying to reach someone or morning",
+    "wer": 0.10344827586206896,
+    "semantic_wer": 0.10344827586206896,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 2788.479400001961,
+      "final_ms": 0,
+      "total_ms": 14191.226899998583
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "google_public",
+    "transcript": "this is actually my first time bringing music customer service was fantastic",
+    "wer": 0.5769230769230769,
+    "semantic_wer": 0.5769230769230769,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 2442.1683000000485,
+      "final_ms": 0,
+      "total_ms": 14443.14420000228
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "google_public",
+    "transcript": "I don't have an account with you guys yet so I think I need to set one up from scratch I just want to call used from a private server last week",
+    "wer": 0.17647058823529413,
+    "semantic_wer": 0.17647058823529413,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 3437.2715999998036,
+      "final_ms": 0,
+      "total_ms": 17543.10070000065
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "google_public",
+    "transcript": "",
+    "wer": 1.0,
+    "semantic_wer": 1.0,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 0,
+      "score": 0.0,
+      "missing": [
+        "Sarah Connor"
+      ]
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1531.9881000032183,
+      "final_ms": 0,
+      "total_ms": 16837.625399999524
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "google_public",
+    "transcript": "I am calling about my account my husband's name is under microscope in the phone number on Fire should be his so",
+    "wer": 0.36666666666666664,
+    "semantic_wer": 0.36666666666666664,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 0,
+      "score": 0.0,
+      "missing": [
+        "Michael Scott"
+      ]
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 2969.228900001326,
+      "final_ms": 0,
+      "total_ms": 15878.375699998287
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "google_public",
+    "transcript": "summer food nutrition is there was no instead of hostel could you go ahead and update on my profile",
+    "wer": 0.5925925925925926,
+    "semantic_wer": 0.5925925925925926,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 0,
+      "score": 0.0,
+      "missing": [
+        "Dallas"
+      ]
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 3105.4509000023245,
+      "final_ms": 0,
+      "total_ms": 18014.333799997985
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "google_public",
+    "transcript": "we need to schedule for my 2022 versus RCS you just have 30000 miles yesterday",
+    "wer": 0.5833333333333334,
+    "semantic_wer": 0.5833333333333334,
+    "entity_accuracy": {
+      "total": 4,
+      "matched": 0,
+      "score": 0.0,
+      "missing": [
+        "oil change",
+        "twenty twenty two",
+        "Lexus",
+        "RX"
+      ]
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 3742.1793999965303,
+      "final_ms": 0,
+      "total_ms": 18745.260200001212
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "google_public",
+    "transcript": "I want to book simultaneous for my phone it's been making this really weird speaking boys every time I apply the brakes going down",
+    "wer": 0.32142857142857145,
+    "semantic_wer": 0.32142857142857145,
+    "entity_accuracy": {
+      "total": 2,
+      "matched": 0,
+      "score": 0.0,
+      "missing": [
+        "maintenance",
+        "Ford"
+      ]
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 3129.188200000499,
+      "final_ms": 0,
+      "total_ms": 16644.473899999866
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "google_public",
+    "transcript": "Videocon customer",
+    "wer": 1.0,
+    "semantic_wer": 1.0,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 0,
+      "score": 0.0,
+      "missing": [
+        "two thousand sixteen"
+      ]
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 1686.321199998929,
+      "final_ms": 0,
+      "total_ms": 13391.356799998903
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "google_public",
+    "transcript": "open this Friday at 10:00 a.m. to start timer",
+    "wer": 0.8620689655172413,
+    "semantic_wer": 0.8620689655172413,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 0,
+      "score": 0.0,
+      "missing": [
+        "this Friday at ten AM"
+      ]
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 2849.2585999993025,
+      "final_ms": 0,
+      "total_ms": 18954.12209999995
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "google_public",
+    "transcript": "yes I would definitely need a lot of you call my wife daughter for the weekend so I have absolutely no other way to get to the office",
+    "wer": 0.375,
+    "semantic_wer": 0.375,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 1,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 3401.7151999978523,
+      "final_ms": 0,
+      "total_ms": 17718.7425000011
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "google_public",
+    "transcript": "actually if it's only going to take an hour to all just waited to do worship I block my laptop so I can just casual pant some emails in the world",
+    "wer": 0.37142857142857144,
+    "semantic_wer": 0.37142857142857144,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 0,
+      "score": 0.0,
+      "missing": [
+        "wait at the dealership"
+      ]
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 3182.180799998605,
+      "final_ms": 0,
+      "total_ms": 17583.850099999836
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "google_public",
+    "transcript": "some interesting work so can we change my appointment to 2:00 p.m. my morning meeting I have a massive conflict",
+    "wer": 0.4642857142857143,
+    "semantic_wer": 0.4642857142857143,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 0,
+      "score": 0.0,
+      "missing": [
+        "two PM"
+      ]
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 3119.673500001227,
+      "final_ms": 0,
+      "total_ms": 15921.185600000172
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "google_public",
+    "transcript": "I am going to have to push my service back to make Tuesday market today morning walk free dance",
+    "wer": 0.5757575757575758,
+    "semantic_wer": 0.5757575757575758,
+    "entity_accuracy": {
+      "total": 1,
+      "matched": 0,
+      "score": 0.0,
+      "missing": [
+        "next Tuesday"
+      ]
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 3048.502699999517,
+      "final_ms": 0,
+      "total_ms": 16549.792400001024
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "google_public",
+    "transcript": "you can also on site I was really stop what yesterday in the bumper is completed today",
+    "wer": 0.6538461538461539,
+    "semantic_wer": 0.6538461538461539,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 2661.9066999992356,
+      "final_ms": 0,
+      "total_ms": 14867.453700000624
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "google_public",
+    "transcript": "I was looking online and couldn't find the answer to this what exactly is your policy on personalities to recover labour costs before actually",
+    "wer": 0.3548387096774194,
+    "semantic_wer": 0.3548387096774194,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 4516.287200000079,
+      "final_ms": 0,
+      "total_ms": 19723.499199997605
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "google_public",
+    "transcript": "can you tell me a little bit more about the so beautiful commercials on the radio all the time but I'm not really sure what makes it so special",
+    "wer": 0.15151515151515152,
+    "semantic_wer": 0.15151515151515152,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 3183.31820000094,
+      "final_ms": 0,
+      "total_ms": 17188.166799998726
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "google_public",
+    "transcript": "where exactly are you guys located I know you have a beautiful branches around the city but I am looking for the one courses to the Downtown area",
+    "wer": 0.10344827586206896,
+    "semantic_wer": 0.10344827586206896,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 3142.080800000258,
+      "final_ms": 0,
+      "total_ms": 15744.849700000486
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "google_public",
+    "transcript": "I've been talking to this robot for 5 minutes and I just want to speak to a real person can you please transformation of",
+    "wer": 0.23333333333333334,
+    "semantic_wer": 0.23333333333333334,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 2388.3978000012576,
+      "final_ms": 0,
+      "total_ms": 16489.381700001104
+    },
+    "success": true,
+    "error": null
+  },
+  {
+    "provider": "google_public",
+    "transcript": "no I think that just about covers everything I need to know that's all for today thank you so much for all your help I really appreciate it",
+    "wer": 0.10714285714285714,
+    "semantic_wer": 0.10714285714285714,
+    "entity_accuracy": {
+      "total": 0,
+      "matched": 0,
+      "score": 100.0,
+      "missing": []
+    },
+    "latency": {
+      "connect_ms": 0,
+      "first_partial_ms": 0,
+      "ttfs_ms": 3184.165099999518,
+      "final_ms": 0,
+      "total_ms": 16795.131500002753
+    },
+    "success": true,
+    "error": null
+  }
+]
