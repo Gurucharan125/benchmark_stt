@@ -1,0 +1,10 @@
+deepgram-sdk>=5.0.0
+python-dotenv
+pyyaml
+aiofiles
+numpy
+soundfile
+openai
+jiwer
+rapidfuzz
+whisper-normalizer
