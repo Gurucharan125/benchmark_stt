@@ -1,0 +1,9 @@
+name: assemblyai
+
+model: u3-rt-pro
+
+sample_rate: 16000
+
+encoding: pcm_s16le
+
+format_turns: true

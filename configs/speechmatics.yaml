@@ -1,0 +1,7 @@
+name: speechmatics
+
+language: en
+
+sample_rate: 16000
+
+encoding: pcm_f32le

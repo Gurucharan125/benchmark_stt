@@ -1,0 +1,13 @@
+dataset: receptionist
+
+voice: alloy
+
+tts_model: gpt-4o-mini-tts
+
+chunk_ms: 100
+
+parallel: false
+
+retries: 3
+
+timeout: 30

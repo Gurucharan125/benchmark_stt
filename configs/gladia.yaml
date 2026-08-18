@@ -1,0 +1,7 @@
+name: gladia
+
+sample_rate: 16000
+
+encoding: wav/pcm
+
+language: en

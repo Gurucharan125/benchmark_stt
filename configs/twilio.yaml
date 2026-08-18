@@ -1,0 +1,7 @@
+name: twilio
+
+media_stream_port: 8765
+media_stream_host: 0.0.0.0
+sample_rate: 8000
+encoding: audio/x-mulaw
+channels: 1

@@ -1,0 +1,152 @@
+{
+  "name": "receptionist",
+  "version": "v1",
+  "samples": [
+    {
+      "id": "sample_001",
+      "text": "Hello there. I was hoping you could help me out with a couple of questions I have about your services. I've been trying to reach someone all morning.",
+      "intent": "GREETING",
+      "entities": []
+    },
+    {
+      "id": "sample_002",
+      "text": "This is actually my first time bringing my vehicle to Sewell. A friend of mine recommended you guys because he said the customer service was fantastic.",
+      "intent": "FIRST_TIME_CUSTOMER",
+      "entities": []
+    },
+    {
+      "id": "sample_003",
+      "text": "I don't have an account with you guys yet, so I think we might need to set one up from scratch. I just bought the car used from a private seller last week.",
+      "intent": "FIRST_TIME_CUSTOMER",
+      "entities": []
+    },
+    {
+      "id": "sample_004",
+      "text": "Sure, my name is Sarah Connor. That's Sarah with an H, and Connor is C O N N O R. I should be in your system from about three years ago.",
+      "intent": "IDENTIFY_USER",
+      "entities": [
+        {"label": "name", "value": "Sarah Connor"}
+      ]
+    },
+    {
+      "id": "sample_005",
+      "text": "I'm calling about my account, but it's actually under my husband's name. It's under Michael Scott, and the phone number on file should be his cell.",
+      "intent": "IDENTIFY_USER",
+      "entities": [
+        {"label": "name", "value": "Michael Scott"}
+      ]
+    },
+    {
+      "id": "sample_006",
+      "text": "Actually, I recently moved across the state, so my preferred location is Dallas now instead of Austin. Could you go ahead and update that on my profile?",
+      "intent": "UPDATE_PROFILE",
+      "entities": [
+        {"label": "preferred_location", "value": "Dallas"}
+      ]
+    },
+    {
+      "id": "sample_007",
+      "text": "I really need to schedule a synthetic oil change and a tire rotation for my twenty twenty two Lexus RX. It just hit thirty thousand miles yesterday.",
+      "intent": "BOOK_APPOINTMENT",
+      "entities": [
+        {"label": "service_type", "value": "oil change"},
+        {"label": "year", "value": "twenty twenty two"},
+        {"label": "make", "value": "Lexus"},
+        {"label": "model", "value": "RX"}
+      ]
+    },
+    {
+      "id": "sample_008",
+      "text": "I'd like to book some routine maintenance for my Ford. It's been making this really weird squeaking noise every time I apply the brakes going downhill.",
+      "intent": "BOOK_APPOINTMENT",
+      "entities": [
+        {"label": "service_type", "value": "maintenance"},
+        {"label": "make", "value": "Ford"}
+      ]
+    },
+    {
+      "id": "sample_009",
+      "text": "The vehicle in question is a two thousand sixteen diesel model. It's an F two fifty super duty, and it takes about thirteen quarts of oil.",
+      "intent": "BOOK_APPOINTMENT",
+      "entities": [
+        {"label": "year", "value": "two thousand sixteen"}
+      ]
+    },
+    {
+      "id": "sample_010",
+      "text": "I was thinking I'll bring it in this Friday at ten AM. If that time is completely booked up, I can probably do Thursday afternoon around three instead.",
+      "intent": "BOOK_APPOINTMENT",
+      "entities": [
+        {"label": "appointment_time", "value": "this Friday at ten AM"}
+      ]
+    },
+    {
+      "id": "sample_011",
+      "text": "Yes, I will definitely need a loaner vehicle. My wife took our other car out of town for the weekend, so I have absolutely no other way to get to the office.",
+      "intent": "BOOK_APPOINTMENT",
+      "entities": [
+        {"label": "loaner_needed", "value": "yes"}
+      ]
+    },
+    {
+      "id": "sample_012",
+      "text": "Actually, if it's only going to take an hour or two, I'll just wait at the dealership. I brought my laptop so I can just catch up on some emails in the lounge.",
+      "intent": "BOOK_APPOINTMENT",
+      "entities": [
+        {"label": "drop_off", "value": "wait at the dealership"}
+      ]
+    },
+    {
+      "id": "sample_013",
+      "text": "Something just came up at work, so can we change my appointment to two PM? My morning meeting got pushed back and now I have a massive conflict.",
+      "intent": "RESCHEDULE_APPOINTMENT",
+      "entities": [
+        {"label": "appointment_time", "value": "two PM"}
+      ]
+    },
+    {
+      "id": "sample_014",
+      "text": "I'm going to have to push my service back to next Tuesday. My kids got sick and I can't leave the house today. Does next Tuesday morning work for you guys?",
+      "intent": "RESCHEDULE_APPOINTMENT",
+      "entities": [
+        {"label": "appointment_time", "value": "next Tuesday"}
+      ]
+    },
+    {
+      "id": "sample_015",
+      "text": "Do you guys happen to have a collision center on site? I was rear-ended at a stoplight yesterday and the bumper is completely dented in.",
+      "intent": "FAQ",
+      "entities": []
+    },
+    {
+      "id": "sample_016",
+      "text": "I was looking online and couldn't find the answer to this, but what exactly is your policy on parts warranties? Do they cover labor costs if the part fails prematurely?",
+      "intent": "FAQ",
+      "entities": []
+    },
+    {
+      "id": "sample_017",
+      "text": "Can you tell me a little bit more about the Sewell difference? I hear the commercials on the radio all the time but I'm not really sure what makes it so special.",
+      "intent": "ABOUT_SEWELL",
+      "entities": []
+    },
+    {
+      "id": "sample_018",
+      "text": "Where exactly are you guys located? I know you have a few different branches around the city, but I'm looking for the one closest to the downtown area.",
+      "intent": "ABOUT_SEWELL",
+      "entities": []
+    },
+    {
+      "id": "sample_019",
+      "text": "Listen, I've been talking to this robot for five minutes and I just want to speak to a real person. Can you please transfer me to a human representative?",
+      "intent": "HUMAN_HANDOFF",
+      "entities": []
+    },
+    {
+      "id": "sample_020",
+      "text": "No, I think that just about covers everything I needed to know. That's all for today. Thanks so much for all your help, I really appreciate it.",
+      "intent": "END_CONVERSATION",
+      "entities": []
+    }
+  ]
+}

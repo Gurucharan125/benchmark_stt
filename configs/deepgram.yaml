@@ -1,0 +1,15 @@
+name: deepgram
+
+model: nova-3
+
+sample_rate: 16000
+
+encoding: linear16
+
+channels: 1
+
+interim_results: true
+
+smart_format: true
+
+endpointing: 300
