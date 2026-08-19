@@ -3,10 +3,9 @@
 
 <head>
     <meta charset="UTF-8">
-
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Fish Audio - ALLE</title>
+    <title>Fish Audio Voice Samples</title>
 
     <style>
         body {
@@ -14,16 +13,24 @@
             max-width: 700px;
             margin: 80px auto;
             padding: 20px;
-            text-align: center;
         }
 
         h1 {
-            margin-bottom: 10px;
+            text-align: center;
+            margin-bottom: 40px;
         }
 
-        p {
+        .sample {
+            margin-bottom: 35px;
+        }
+
+        .sample h2 {
+            margin-bottom: 8px;
+        }
+
+        .sample p {
             color: #666;
-            margin-bottom: 30px;
+            margin-bottom: 12px;
         }
 
         audio {
@@ -34,16 +41,40 @@
 
 <body>
 
-    <h1>Fish Audio - ALLE</h1>
+    <h1>Fish Audio Voice Samples</h1>
 
-    <p>Fish Audio voice sample</p>
+    <div class="sample">
+        <h2>ALLE</h2>
+        <p>Fish Audio - Sample 1</p>
 
-    <audio controls>
-        <source src="https://raw.githubusercontent.com/Gurucharan125/benchmark_stt/main/tts_samples/fish_audio_test.mp3"
-            type="audio/mpeg">
+        <audio controls>
+            <source
+                src="https://raw.githubusercontent.com/Gurucharan125/benchmark_stt/main/tts_samples/fish_audio_test.mp3"
+                type="audio/mpeg">
+        </audio>
+    </div>
 
-        Your browser does not support audio playback.
-    </audio>
+    <div class="sample">
+        <h2>Voice 2</h2>
+        <p>Fish Audio - Sample 2</p>
+
+        <audio controls>
+            <source
+                src="https://raw.githubusercontent.com/Gurucharan125/benchmark_stt/main/tts_samples/fish_audio_sample_2.mp3"
+                type="audio/mpeg">
+        </audio>
+    </div>
+
+    <div class="sample">
+        <h2>Voice 3</h2>
+        <p>Fish Audio - Sample 3</p>
+
+        <audio controls>
+            <source
+                src="https://raw.githubusercontent.com/Gurucharan125/benchmark_stt/main/tts_samples/fish_audio_sample_3.mp3"
+                type="audio/mpeg">
+        </audio>
+    </div>
 
 </body>
 
